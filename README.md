@@ -3,10 +3,16 @@ Basic model to replicate a self-organised critical forest fires by Drossel & Sch
 
 ## Contents
 replicatingforestfires/
+
+
 ├── forest_fire_animation.gif # Animation of dynamics in the model
+
 ├── replicating_forest_fires.ipynb # Jupyter notebook version with plots
+
 ├── requirements.txt # List of dependencies
+
 ├── forest_fire_results.csv # Saved results
+
 └── README.md # Project description and instructions
 
 ## Installation  
