@@ -31,4 +31,5 @@ You can run the model directly from replicatingforestfires.ipynb. You can contro
 ## Reference
 Drossel, B. & Schwabl, F. (1992). Self-Organized Critical Forest-Fire Model. Physical Review Letters, 69(11), 1629–1632.
 https://doi.org/10.1103/PhysRevLett.69.1629
+
 Foramitti, J. (2021). Forest fire model example (AgentPy). Retrieved from https://agentpy.readthedocs.io/en/latest/agentpy_forest_fire.html
