@@ -1,3 +1,8 @@
+5404COSY6Y - Complex Systems - Fall 2025
+
+Team Members: Rosa Muilu, Binti Dekker, Martijn Schotte, 
+Noah Zuijderwijk
+
 # Replicating forest fires
 Basic model to replicate a self-organised critical forest fires by Drossel & Schwabl (1992). The goal is to demonsrate self-organised critical dynamics in a simple model. The replication used a forest fire simulation by Foramitti (2021) as a starting point.
 
